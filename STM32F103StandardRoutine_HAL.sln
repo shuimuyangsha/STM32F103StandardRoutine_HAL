@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Experiment_26_CAN_ControllerAreaNetwork", "Experiment_26_CAN_ControllerAreaNetwork\Project\VS\Experiment_26_CAN_ControllerAreaNetwork\Experiment_26_CAN_ControllerAreaNetwork.vcxproj", "{F19FBB94-9792-47B4-9114-291DD1C55BF2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Experiment_04_SerialPort", "Experiment_04_SerialPort\Project\VS\Experiment_04_SerialPort\Experiment_04_SerialPort.vcxproj", "{93EA523C-B6EC-4B65-ABBC-4084922F7E58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Experiment_08_TimerInterrupts", "Experiment_08_TimerInterrupts\Project\VS\Experiment_08_TimerInterrupts\Experiment_08_TimerInterrupts.vcxproj", "{18141FAA-7F56-4FDF-B0B7-195E00DBEB27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|VisualGDB = Debug|VisualGDB
@@ -15,6 +19,14 @@ Global
 		{F19FBB94-9792-47B4-9114-291DD1C55BF2}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
 		{F19FBB94-9792-47B4-9114-291DD1C55BF2}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
 		{F19FBB94-9792-47B4-9114-291DD1C55BF2}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{93EA523C-B6EC-4B65-ABBC-4084922F7E58}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{93EA523C-B6EC-4B65-ABBC-4084922F7E58}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{93EA523C-B6EC-4B65-ABBC-4084922F7E58}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{93EA523C-B6EC-4B65-ABBC-4084922F7E58}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{18141FAA-7F56-4FDF-B0B7-195E00DBEB27}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{18141FAA-7F56-4FDF-B0B7-195E00DBEB27}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{18141FAA-7F56-4FDF-B0B7-195E00DBEB27}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{18141FAA-7F56-4FDF-B0B7-195E00DBEB27}.Release|VisualGDB.Build.0 = Release|VisualGDB
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
